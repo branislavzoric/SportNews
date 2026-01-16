@@ -1,0 +1,13 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "My Newsletter"
+theme = "PaperMod"
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+
+[params.homeInfoParams]
+Title = "My Newsletter"
+Content = "Weekly insights delivered straight to your inbox."
